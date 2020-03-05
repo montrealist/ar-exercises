@@ -1,0 +1,1 @@
+create database ar_exercises;
